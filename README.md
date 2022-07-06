@@ -2,6 +2,10 @@
 
 A aplicação consiste em um site para uma locadora de filmes. Projeto feito utilizando Typescript, Node, Express, Prisma, Supabase(Postgresql) e Next.js.
 
+![Dashboard](./public/dash.png)
+
+![Carrinho](./public/cart.png)
+
 ## :rocket: Como rodar o projeto?
 
 ### :warning: O projeto está em construção, existem alguns erros de tipagem que impedem o build. 

@@ -21,6 +21,8 @@ const CartDetails = (props: { cart: ItemType[], userId: number }) => {
 
     const movies = order.filter((item) => item.movieId)
 
+    // TODO: verificar o por quê da tipagem não funcionar. As interfaces parecem corretas. A solução seria alterar o DB?
+
     if (movies && games){
       await saveGameRental(games)
       await saveMovieRental(movies)
