@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const api = axios.create({
-  baseURL: 'http://localhost:3001',
+  baseURL: 'https://rent-a-movie-api.herokuapp.com/',
 })
 
 export default api;
