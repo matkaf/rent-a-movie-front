@@ -10,7 +10,15 @@ A aplicação consiste em um site para uma locadora de filmes. Projeto feito uti
 
 ### :warning: O projeto está em construção, existem alguns erros de tipagem que impedem o build. 
 
-Para rodar o projeto, você deve clonar este repositório e o repositório [back-end](https://github.com/matkaf/rent-a-movie-api)
+Para rodar o projeto localmente, você deve clonar este repositório e o repositório [back-end](https://github.com/matkaf/rent-a-movie-api)
+
+O usuário de teste é:
+
+```
+  E-mail: teste@teste.com
+  
+  Senha: teste@123
+```  
 
 1. Faça o clone do repositório para sua máquina:
 ```bash
