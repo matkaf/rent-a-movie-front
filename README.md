@@ -14,7 +14,7 @@ Para rodar o projeto, você deve clonar este repositório e o repositório [back
 
 1. Faça o clone do repositório para sua máquina:
 ```bash
-git clone git@github.com:matkaf/rent-a-movie-front
+git clone git@github.com:matkaf/rent-a-movie-front.git
 ```
 
 2. Entre na pasta do projeto e instale as dependências:
